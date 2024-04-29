@@ -1,0 +1,18 @@
+site_name: Maritime Intelligent Navigation
+
+
+nav:
+- 赛事简介: 赛事简介.md
+
+- 赛事资源: 赛事资源.md
+
+- 快速上手指南: 快速上手指南.md
+
+- 评分细则: 评分细则.md
+
+theme:
+  name: 'material'
+  logo: imagsea/logo.png
+  
+extra_css:
+  - css/custom.css
