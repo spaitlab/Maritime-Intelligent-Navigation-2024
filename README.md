@@ -1,6 +1,6 @@
 # Maritime-Intelligent-Navigation-2024
 Open source data of maritime intelligent navigation platform
-# 第十二届全国海洋航行器设计与制作大赛
+# 第十三届全国海洋航行器设计与制作大赛
 ## C4智能导航赛道（Maritime-Intelligent-Navigation）
 #### 大赛报名网址
  您可以在这里进行大赛报名:[全国海洋航行器设计与制作大赛](http://cmvc.moocollege.com/)
