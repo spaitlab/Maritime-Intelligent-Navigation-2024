@@ -2,8 +2,7 @@
 Open source data of maritime intelligent navigation platform
 # 第十三届全国海洋航行器设计与制作大赛
 ## C4智能导航赛道（Maritime-Intelligent-Navigation）
-#### 大赛报名网址
- 您可以在这里进行大赛报名:[全国海洋航行器设计与制作大赛](http://cmvc.moocollege.com/)
+
 #### 线上开源培训课程链接
  您可以在这里获取线上赛前培训课程：[课程链接](https://www.zhihuishu.com/virtual_portals_h5/virtualExperiment.html#/indexPage?courseId=2000092634)，快速上手基于unity的无人艇强化学习导航避障训练环境平台
  #### 训练环境Unity工程文件获取链接
@@ -21,12 +20,12 @@ Open source data of maritime intelligent navigation platform
 * ML-Agents是一个开源工具包，用于在Unity环境中进行强化学习和机器学习的研究和开发。它为开发者提供了一套API和工具，可以在Unity中创建智能体（Agents），定义它们的行为和学习算法，并与环境进行交互。使用ML-Agents，可以利用强化学习算法（如Proximal Policy Optimization和Deep Q-Network等）来训练智能体。ML-Agents提供了与TensorFlow和PyTorch等主流机器学习框架的集成，使开发者可以使用自己喜欢的框架来实现算法。
 
 ## C4智能导航赛道
-* 该环境是第十二届全国海洋航行器设计与制作大赛C4智能导航赛道的仿真环境，您可以访问我们的赛道网址获取最新资讯：[海上智能导航赛道](https://hangxingqi2023.github.io/Maritime-Intelligent-Navigation/)。
+* 该环境是第十三届全国海洋航行器设计与制作大赛C4智能导航赛道的仿真环境，您可以访问我们的赛道网址获取最新资讯：[海上智能导航赛道](https://hangxingqi2023.github.io/Maritime-Intelligent-Navigation/)。
 
 ![训练场景](docs/image/unity17.PNG)
 
 ## 上手指南
- * [智能导航上手指南](https://hangxingqi2023.github.io/Maritime-Intelligent-Navigation/%E5%BF%AB%E9%80%9F%E4%B8%8A%E6%89%8B%E6%8C%87%E5%8D%97/) 提供文档和教程。
+ * [智能导航上手指南](https://spaitlab.github.io/Maritime-Intelligent-Navigation-2024/%E5%BF%AB%E9%80%9F%E4%B8%8A%E6%89%8B%E6%8C%87%E5%8D%97/) 提供文档和教程。
  * 该说明文档进行了详细的解释。如果您从零基础开始，熟悉这些工具，请不用担心，我们的快速上手指南会教会您如何在Unity环境下跑起来自己的无人艇强化学习避障算法
  * 对于技术问题，可以给我们留言描述您的问题或请求支持。
 
@@ -42,12 +41,12 @@ Open source data of maritime intelligent navigation platform
 ## 加入我们
 * 该项目正在积极开发中，以支持全国海洋航行器设计与制作大赛的C4赛道。 我们一直在添加和改进东西。 我们的主要重点是提供无人艇和Unity仿真环境，也欢迎大家围绕他们的特定用例开发额外的功能。
 
-* 如果您对这些主题有任何疑问，或者想在其他方面开展工作，您可以直接联系我们（见下文），也可以提交一个[issue](https://github.com/Hangxingqi2023/Maritime-Intelligent-Navigation/issues)，或者提交一个[pull
- request](https://github.com/Hangxingqi2023/Maritime-Intelligent-Navigation/pulls)！
+* 如果您对这些主题有任何疑问，或者想在其他方面开展工作，您可以直接联系我们（见下文），也可以提交一个[issue](https://github.com/spaitlab/Maritime-Intelligent-Navigation-2024/issues)，或者提交一个[pull
+ request](https://github.com/spaitlab/Maritime-Intelligent-Navigation-2024/pulls)！
 
 
 
 ## 联系我们
 
 * 智能无人航行器实验室：13366005075 / 840665161@qq.com
-* 大赛交流QQ群：
+* 大赛交流QQ群：711509724
