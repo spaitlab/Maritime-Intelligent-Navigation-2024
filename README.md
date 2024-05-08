@@ -6,7 +6,7 @@ Open source data of maritime intelligent navigation platform
 #### 线上开源培训课程链接
  您可以在这里获取线上赛前培训课程：[课程链接](https://www.zhihuishu.com/virtual_portals_h5/virtualExperiment.html#/indexPage?courseId=2000092634)，快速上手基于unity的无人艇强化学习导航避障训练环境平台
  #### 训练环境Unity工程文件获取链接
- 您可以在这里获取搭建Unity仿真环境的开源工程链接：[工程链接](https://pan.baidu.com/s/1dz6PhY-JvUe0cCGLYl-Vjw )，提取码：etk0，快速下载unity无人艇强化学习导航避障训练环境工程。
+ 您可以在这里获取搭建Unity仿真环境的开源工程链接：[工程链接](https://pan.baidu.com/s/16uyTPeBj_8HiO9CKGzQaWw)，提取码：1234，快速下载unity无人艇强化学习导航避障训练环境工程。
 
 ## Maritime-Intelligent-Navigation仓库简介
 * 该仓库是全国海洋航行器设计与制作大赛C4智能导航赛道的仿真环境源代码和文档所在地。
