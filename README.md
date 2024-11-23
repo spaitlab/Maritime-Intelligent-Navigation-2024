@@ -4,6 +4,8 @@ Open source data of maritime intelligent navigation platform
 ## C4智能导航赛道（Maritime-Intelligent-Navigation）
 
 ![](./docs/image/zhinengdaohang.jpg)
+本书在系统地介绍无人艇发展概况及系统架构等基本知识的基础上，着重介绍水面无人艇智能感知与导航技术。全书共6章，第1章着重介绍无人艇的发展概况和关键技术；第2章主要介绍无人艇的艇体设计及系统架构，并阐述无人艇感知系统；第3章为基于视觉的无人艇感知技术，主要介绍水面目标检测与跟踪算法；第4章主要介绍基于激光雷达的无人艇感知技术；第5章主要介绍无人艇路径规划技术；第6章主要介绍无人艇算法的训练与测试。本书适合作为高等工科院校电子信息工程、自动化、船舶与海洋工程专业高年级本科生、研究生的教材，同时可供对无人艇控制、智能导航比较熟悉且对无人系统虚拟仿真训练有所了解的开发人员和研究人员参考。
+
 
 #### 线上开源培训课程链接
 
@@ -31,6 +33,7 @@ Open source data of maritime intelligent navigation platform
  * [智能导航上手指南](https://spaitlab.github.io/Maritime-Intelligent-Navigation-2024/%E5%BF%AB%E9%80%9F%E4%B8%8A%E6%89%8B%E6%8C%87%E5%8D%97/) 提供文档和教程。
  * 该说明文档进行了详细的解释。如果您从零基础开始，熟悉这些工具，请不用担心，我们的快速上手指南会教会您如何在Unity环境下跑起来自己的无人艇强化学习避障算法
  * 对于技术问题，可以给我们留言描述您的问题或请求支持。
+ ![](./docs/image/agent.jpg)
 
 ## 版权信息和使用要求
  * 版权所有 (c) [2023] [北京理工大学]
