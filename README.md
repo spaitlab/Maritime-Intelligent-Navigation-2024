@@ -3,7 +3,10 @@ Open source data of maritime intelligent navigation platform
 # 第十三届全国海洋航行器设计与制作大赛
 ## C4智能导航赛道（Maritime-Intelligent-Navigation）
 
+![](./docs/image/zhinengdaohang.jpg)
+
 #### 线上开源培训课程链接
+
  您可以在这里获取线上赛前培训课程：[课程链接](https://www.zhihuishu.com/virtual_portals_h5/virtualExperiment.html#/indexPage?courseId=2000092634)，快速上手基于unity的无人艇强化学习导航避障训练环境平台
  #### 训练环境Unity工程文件获取链接
  您可以在这里获取搭建Unity仿真环境的开源工程链接：[工程链接](https://pan.baidu.com/s/1VWEVSLpuW6CNF9cia6apSw)，提取码：1234，快速下载unity无人艇强化学习导航避障训练环境工程。
@@ -13,7 +16,7 @@ Open source data of maritime intelligent navigation platform
 * 支持在unity提供的海洋环境中模拟无人艇导航与避障训练。
 * 与全国海洋航行器设计与制作大赛组织者协调设计，该项目提供与现在和未来该项比赛中C4赛道类似的竞技场和任务，可以通过百度网盘链接获取unity平台的仿真环境工程文件。
 * 对于C4智能导航的参赛者，此模拟环境旨在作为在物理水上测试之前开发工具原型解决方案的第一步。
- 
+
 ## Maritime-Intelligent-Navigation平台支撑
    **平台基于 Unity 和 ML-Agents**
 * Unity是Unity Technologies公司开发的一款专业的综合型开发引擎，具有强大的跨平台特性与基于物理的 3D 渲染效果。Unity支持多种脚本语言开发,同时具备视觉化编辑、动态预览和实时参数修改的功能，其内置物理引擎可以模拟真实航行环境的物理效果。此外，Unity还支持DRL算法的训练与测试，在构建航行环境和无人艇运动模型方面具有出色的效果。
